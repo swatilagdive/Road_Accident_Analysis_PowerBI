@@ -1,5 +1,9 @@
 #  Road Accident Analysis Dashboard | Power BI
 
+<p align="center">
+  <img src="Screenshots/Dashboard_Overview.png" width="1000"/>
+</p>
+
 
 ##  Project Overview
 
