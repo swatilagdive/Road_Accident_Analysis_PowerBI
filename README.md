@@ -131,13 +131,9 @@ Road-Accident-Analysis-PowerBI
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Swati Lagdive**
 
 📧 Email: *lagdiveswati16@gmail.com*
 
-
----
-
-### ⭐ If you found this project helpful, don't forget to give it a Star!
