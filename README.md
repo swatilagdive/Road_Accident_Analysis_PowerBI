@@ -1,5 +1,7 @@
 #  Road Accident Analysis Dashboard | Power BI
 
+"C:\Users\rohit\OneDrive\Desktop\Swati_Study\Road accident data\Dashboard overview.png"
+
 ##  Project Overview
 
 The **Road Accident Analysis Dashboard** is an interactive Power BI project developed to analyze road accident data and uncover meaningful insights into accident patterns, casualty trends, vehicle involvement, road conditions, and environmental factors.
