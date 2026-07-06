@@ -1,6 +1,6 @@
-# 🚗 Road Accident Analysis Dashboard | Power BI
+#  Road Accident Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Road Accident Analysis Dashboard** is an interactive Power BI project developed to analyze road accident data and uncover meaningful insights into accident patterns, casualty trends, vehicle involvement, road conditions, and environmental factors.
 
@@ -8,15 +8,7 @@ The dashboard enables users to monitor key performance indicators (KPIs), explor
 
 ---
 
-## 📊 Dashboard Preview
-
-> **Dashboard Overview**
-
-screenshot/Filters Applied.png
-
----
-
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall road accident casualties.
 - Compare Current Year (CY) vs Previous Year (PY) performance.
@@ -28,7 +20,7 @@ screenshot/Filters Applied.png
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - Total Casualties
 - Total Accidents
@@ -38,20 +30,20 @@ screenshot/Filters Applied.png
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-### ✅ KPI Cards
+### KPI Cards
 - Current Year Casualties
 - Current Year Accidents
 - Fatal Casualties
 - Serious Casualties
 - Slight Casualties
 
-### 📅 Trend Analysis
+###  Trend Analysis
 - Monthly Casualties Trend
 - Current Year vs Previous Year Comparison
 
-### 🚗 Vehicle Type Analysis
+###  Vehicle Type Analysis
 - Car
 - Bike
 - Bus
@@ -59,31 +51,31 @@ screenshot/Filters Applied.png
 - Agricultural Vehicle
 - Other Vehicles
 
-### 🛣 Road Type Analysis
+###  Road Type Analysis
 - Single Carriageway
 - Dual Carriageway
 - Roundabout
 - One-way Street
 - Slip Road
 
-### 🌤 Environmental Analysis
+###  Environmental Analysis
 - Weather Conditions
 - Road Surface Conditions
 - Light Conditions
 
-### 🏙 Area Analysis
+###  Area Analysis
 - Urban vs Rural Casualties
 
-### 🗺 Location Analysis
+###  Location Analysis
 - Interactive Bing Map showing accident locations
 
-### 🎛 Interactive Filters
+###  Interactive Filters
 - Weather Condition
 - Road Surface Condition
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -92,7 +84,7 @@ screenshot/Filters Applied.png
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Road-Accident-Analysis-PowerBI
@@ -115,7 +107,7 @@ Road-Accident-Analysis-PowerBI
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Cars contribute the highest number of casualties.
 - Urban areas report more casualties than rural areas.
@@ -125,7 +117,7 @@ Road-Accident-Analysis-PowerBI
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -136,36 +128,6 @@ Road-Accident-Analysis-PowerBI
 - Business Intelligence
 - Dashboard Design
 - KPI Reporting
-
----
-
-## 📷 Dashboard Screenshots
-
-### Dashboard Overview
-
-![Dashboard](Screenshots/Dashboard%20Overview.png)
-
----
-
-### Monthly Trend
-
-![Trend](Screenshots/Monthly%20Trend.png)
-
----
-
-### Map Analysis
-
-![Map](Screenshots/Map%20Analysis.png)
-
----
-
-## 🚀 Future Improvements
-
-- Drill-through Pages
-- Tooltip Reports
-- Forecasting
-- Additional KPIs
-- Mobile Layout Optimization
 
 ---
 
