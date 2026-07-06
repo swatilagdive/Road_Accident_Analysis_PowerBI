@@ -12,7 +12,7 @@ The dashboard enables users to monitor key performance indicators (KPIs), explor
 
 > **Dashboard Overview**
 
-![Dashboard Overview](Screenshots/Dashboard%20Overview.png)
+screenshot/Filters Applied.png
 
 ---
 
