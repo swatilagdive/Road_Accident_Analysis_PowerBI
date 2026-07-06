@@ -1,6 +1,5 @@
 #  Road Accident Analysis Dashboard | Power BI
 
-"C:\Users\rohit\OneDrive\Desktop\Swati_Study\Road accident data\Dashboard overview.png"
 
 ##  Project Overview
 
